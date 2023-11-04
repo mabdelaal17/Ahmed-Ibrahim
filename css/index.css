@@ -219,5 +219,21 @@ a:hover {
 }
 
 .container h1 {
-  margin-bottom: 0px;
+  margin: 0px;
+}
+
+.container h2 {
+  margin: 7px 0 0 0;
+}
+
+.head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.head img {
+  margin-right: 25px;
+  width: 150px;
 }
